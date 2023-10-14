@@ -15,16 +15,16 @@
     Feeling more relaxed and in subconscious state and thinking for new ideas and approches.
 
 ### 4. According to the video, what are the steps to take when approaching a new topic? Only mention the points.
-   1.Deconstruct the skill
-   1.Learn enough to self-correct
-   1.Remove Practie barriers
-   1.Practice atleast 20 hours
+   1.Deconstruct the skill  
+   2.Learn enough to self-correct  
+   3.Remove Practie barriers  
+   4.Practice atleast 20 hours  
 
 ### 5. What are some of the actions you can take going forward to improve your learning process?
 
-1.Sleep atleast 8 hours a day
-1.Taking frequent breaks 
-1.Working with complete focus
-1.Teaching others
-1.Consistency in practice
-1.Try to learn anything within 20 hours
+1.Sleep atleast 8 hours a day  
+2.Taking frequent breaks  
+3.Working with complete focus  
+4.Teaching others  
+5.onsistency in practice  
+6.Try to learn anything within 20 hours  
