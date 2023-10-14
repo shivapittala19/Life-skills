@@ -1,4 +1,4 @@
-## Learning Peocess submission
+## Learning Process submission
 
 ### 1. What is the Feynman Technique? Explain in 1 line.
     The best way to learn is to teach .
