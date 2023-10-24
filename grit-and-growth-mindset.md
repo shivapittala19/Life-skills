@@ -7,10 +7,10 @@
 ### 3. What is the Internal Locus of Control? What is the key point in the video?
 * The Internal Locus of Control (IL) is a psychological concept that refers to an individual's belief in their ability to control their own thoughts, feelings, and behaviors. This belief system is characterized by a sense of personal efficacy, self-determination, and resilience.
 
-Key points in the video:
-* Developing an internal locus of control, where you believe you have control over your life and outcomes, is key to staying motivated.
-* An external locus of control, blaming external factors for your failures, can lead to decreased motivation and effort.
-* Adopting an internal locus of control is achieved by solving problems in your life and recognizing that your actions and efforts lead to positive outcomes
+    Key points in the video:
+    * Developing an internal locus of control, where you believe you have control over your life and outcomes, is key to staying motivated.
+    * An external locus of control, blaming external factors for your failures, can lead to decreased motivation and effort.
+    * Adopting an internal locus of control is achieved by solving problems in your life and recognizing that your actions and efforts lead to positive outcomes
 
 ### 4. What are the key points mentioned by speaker to build growth mindset 
 * Believe in Your Ability to Improve
